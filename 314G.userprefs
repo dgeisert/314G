@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StateMachines/InputAndUI/Input/Input_Teleport.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StateMachines/InputAndUI/Input/Input_Teleport.cs" Line="64" Column="11" />
+      <File FileName="Assets/Scripts/OVR/Scripts/OVRCameraRig.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StateMachines/InputAndUI/InputMachine.cs" Line="26" Column="42" />
+      <File FileName="Assets/Scripts/StateMachines/AreaStartStateMachine.cs" Line="19" Column="27" />
+      <File FileName="Assets/Scripts/StateMachines/StateMachine.cs" Line="34" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
